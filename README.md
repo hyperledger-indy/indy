@@ -1,15 +1,15 @@
 # Hyperledger Indy
 
-![Indy Logo](https://raw.githubusercontent.com/hyperledger/indy-node/main/collateral/logos/indy-logo.png)
+![Indy Logo](https://raw.githubusercontent.com/hyperledger-indy/indy-node/main/collateral/logos/indy-logo.png)
 
 Hyperledger Indy is an open source implementation of a distributed ledger,
 purpose-built for identity solutions using privacy preserving verifiable
 credentials.
 
-If you are a developer, begin your journey by looking at an Aries Framework that
-interact with Indy, such as [Aries Cloud Agent Python](https://aca-py.org),
-[Credo TS](https://github.com/openwallet-foundation/credo-ts) or [Aries
-VCX](https://github.com/hyperledger/aries-vcx)
+If you are a developer, begin your journey by looking at an Agent Framework that
+interact with Indy, such as [ACA-Py](https://aca-py.org), [Credo
+TS](https://github.com/openwallet-foundation/credo-ts) or
+[VCX](https://github.com/openwallet-foundation/vcx)
 
 ## Key Characteristics
 
