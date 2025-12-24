@@ -15,19 +15,19 @@ This Charter sets forth the responsibilities and procedures for technical contri
 
    1. The Technical Steering Committee (the “TSC”) will be responsible for all technical oversight of the open source Project. 
 
-   2. The TSC members are listed in the “TSC.md” file in the GitHub repository [https://github.com/hyperledger/indy](https://github.com/hyperledger/indy), along with the approach used by the AnonCreds project for determining the voting members of the TSC. The TSC may choose an alternative approach for determining the voting members of the TSC by documenting such a change in the same document. 
+   2. The TSC members are listed in the “TSC.md” file in the GitHub repository [https://github.com/hyperledger-indy/indy](https://github.com/hyperledger-indy/indy), along with the approach used by the AnonCreds project for determining the voting members of the TSC. The TSC may choose an alternative approach for determining the voting members of the TSC by documenting such a change in the same document. 
 
    3. Any meetings of the Technical Steering Committee are intended to be open to the public, and can be conducted electronically, via teleconference, or in person.  The meetings may occur as part of regularly scheduled community calls instead of dedicated calls, when the volume of TSC related topics can be easily accommodated without additional meetings.
 
-   4. TSC projects generally will involve Contributors and Maintainers. The TSC may adopt or modify roles so long as the roles are documented in the MAINTAINERS.md file in the GitHub repository [https://github.com/hyperledger/indy](https://github.com/hyperledger/indy). Unless otherwise documented: 
+   4. TSC projects generally will involve Contributors and Maintainers. The TSC may adopt or modify roles so long as the roles are documented in the MAINTAINERS.md file in the GitHub repository [https://github.com/hyperledger-indy/indy](https://github.com/hyperledger-indy/indy). Unless otherwise documented: 
 
       1. Contributors include anyone in the technical community that contributes code, documentation, or other technical artifacts to the Project; 
 
       2. Maintainers are Contributors who have earned escalated GitHub privileges above READ for repositories in the project. Such privileges empower those individuals to modify (“commit” or “merge”) source code, documentation or other technical artifacts in some or all of the project’s GitHub repositories.  
            
-      3. A Contributor may become a Maintainer through the process outlined in the MAINTAINERS.md file in the [https://github.com/hyperledger/indy](https://github.com/hyperledger/indy) repository..
+      3. A Contributor may become a Maintainer through the process outlined in the MAINTAINERS.md file in the [https://github.com/hyperledger-indy/indy](https://github.com/hyperledger-indy/indy) repository..
 
-      4. A Maintainer may be removed through the process outlined in the MAINTAINERS.md file in the [https://github.com/hyperledger/indy](https://github.com/hyperledger/indy) repository. 
+      4. A Maintainer may be removed through the process outlined in the MAINTAINERS.md file in the [https://github.com/hyperledger-indy/indy](https://github.com/hyperledger-indy/indy) repository. 
 
    5. Participation in the Project through becoming a Contributor and Maintainer is open to anyone so long as they abide by the terms of this Charter. 
 
